@@ -13,6 +13,8 @@ gem "decidim", "0.24.3"
 
 gem "bootsnap", "~> 1.3"
 
+gem "figaro"
+
 gem "puma", ">= 5.0.0"
 gem "uglifier", "~> 4.1"
 
